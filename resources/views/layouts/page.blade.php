@@ -228,7 +228,7 @@
 </div>
 
 <div class="container-fluid text-center blackbg white">
- Powered By webexinfotech.com   
+ Built by Pranav @ 2019 
 </div>
 
 
